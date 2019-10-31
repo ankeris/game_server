@@ -34,7 +34,7 @@
     "dotenv": "^5.0.1",
     "express": "4.16.2",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.5.1",
+    "mongoose": "^5.7.5",
     "sqlite3": "^4.1.0"
   },
   "author": "Juozas Rastenis",
